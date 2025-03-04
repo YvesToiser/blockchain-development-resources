@@ -37,6 +37,10 @@
 - Assembly & Formal Verification : https://updraft.cyfrin.io/courses/formal-verification
 - Smart Contract DevOps : https://updraft.cyfrin.io/courses/wallets
 - Fuzz testing : https://www.cyfrin.io/blog/smart-contract-fuzz-testing-using-foundry
+#### DAO & Governance
+- https://wizard.openzeppelin.com/#governor
+- https://www.tally.xyz/developers
+- https://docs.alchemy.com/docs/how-to-create-a-dao-governance-token
 
 ### Auditing
 - https://www.rareskills.io/post/smart-contract-security
