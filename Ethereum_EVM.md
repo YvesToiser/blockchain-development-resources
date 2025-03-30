@@ -20,6 +20,7 @@
 - Smart Contract Development : https://updraft.cyfrin.io/courses/solidity
 - Foundry : https://updraft.cyfrin.io/courses/foundry & https://updraft.cyfrin.io/courses/advanced-foundry
 - Smart Contract Security : https://updraft.cyfrin.io/courses/security
+- Security and Auditing : https://github.com/Cyfrin/security-and-auditing-full-course-s23
 
 #### Paid
 - Rareskills Bootcamp : https://www.rareskills.io/web3-blockchain-bootcamps
@@ -61,6 +62,7 @@
 - EVM through CTF : https://www.evmthroughctfs.com/
 - Only Pwner : https://onlypwner.xyz/
 - Quill Audits CTF : https://www.quillaudits.com/academy/ctf
+- Buggy ERC-20 : https://github.com/RareSkills/Buggy-ERC-20
 
 ### Vyper
 - Vyper: https://updraft.cyfrin.io/courses/intro-python-vyper-smart-contract-development & https://updraft.cyfrin.io/courses/intermediate-python-vyper-smart-contract-development & https://updraft.cyfrin.io/courses/advanced-python-vyper-smart-contract-development
