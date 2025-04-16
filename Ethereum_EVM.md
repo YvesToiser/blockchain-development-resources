@@ -29,6 +29,7 @@
 ### Topics
 - Uniswap v2 : https://www.rareskills.io/uniswap-v2-book & https://updraft.cyfrin.io/courses/uniswap-v2
 - Uniswap v3 : https://updraft.cyfrin.io/courses/uniswap-v3
+- Uniswap v4 : https://hacken.io/discover/auditing-uniswap-v4-hooks/ - https://hacken.io/discover/uniswap-v4-transient-storage-security/ - https://hacken.io/discover/uniswap-v4-truncated-oracle/
 - Compound v3 : https://www.rareskills.io/compound-v3-book
 - Curve v1 : https://updraft.cyfrin.io/courses/curve-v1 & https://updraft.cyfrin.io/courses/curve-cryptoswap
 - Proxy patterns : https://www.rareskills.io/proxy-patterns
